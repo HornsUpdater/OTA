@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": "1619279250",
+      "filename": "StagOS-z2_plus-11.0.R2.1-OFFICIAL-Pristine-20210424-1548.zip",
+      "id": "43429c892481d547f3bb416675bb829bb9ed4979c55ca01427481c87f4b6467c",
+      "size": "918579431",
+      "url": "https://releases.stag-os.workers.dev/z2_plus/StagOS-z2_plus-11.0.R2.1-OFFICIAL-Pristine-20210424-1548.zip",
+      "version": "11.0.R2.1"
+    }
+  ]
+}
